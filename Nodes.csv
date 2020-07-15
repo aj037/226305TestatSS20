@@ -1,0 +1,82 @@
+ID,type,sex,age,party,representation,position,state,name
+Platzeck,0,1,4,4,1,1,3,Platzeck
+Pofalla,0,1,4,2,1,1,4,Pofalla
+Praetorius,0,2,3,1,4,1,2,Praetorius
+Tillich,0,1,4,2,1,1,5,Tillich
+Hasselfeldt,0,2,4,3,1,2,7,Hasselfeldt
+Kampeter,0,1,3,2,2,2,4,Kampeter
+Kapferer,0,1,3,6,2,2,8,Kapferer
+Kempf,0,1,4,1,2,2,7,Kempf
+Nemat,0,2,3,1,2,2,4,Nemat
+Reiche,0,2,2,2,2,2,3,Reiche
+Roestel,0,2,3,5,2,2,5,Roestel
+Schweitzer,0,1,3,1,2,2,2,Schweitzer
+Grothus,0,2,3,1,5,2,4,Grothus
+Wodtke,0,2,ka,2,5,2,3,Wodtke
+Herntier,0,2,4,1,5,2,3,Herntier
+Kreuzberg,0,1,4,2,5,2,4,Kreuzberg
+Priggen,0,1,4,5,5,2,1,Priggen
+Vassiliadis,0,1,3,4,3,2,4,Vassiliadis
+Scheidt,0,1,3,4,3,2,4,Scheidt
+Koerzell,0,1,3,4,3,2,6,Koerzell
+Kaiser,0,1,NA,NA,4,2,NA,Kaiser
+Weiger,0,1,5,1,4,2,7,Weiger
+Niebert,0,1,2,1,4,2,NA,Niebert
+Schoenefeld,0,2,4,NA,6,2,4,Schoenefeld
+Matthes,0,1,3,1,6,2,2,Matthes
+Schellnhuber,0,1,4,1,6,2,7,Schellnhuber
+Niebuhr,0,2,3,1,6,2,NA,Niebuhr
+Wehrspohn,0,1,2,1,6,2,NA,Wehrspohn
+Laemmel,0,1,4,2,1,3,5,Laemmel
+Lenz,0,1,1,3,1,3,7,Lenz
+Miersch,0,1,3,4,1,3,1,Miersch
+CDU,1,NA,NA,NA,NA,NA,NA,
+CSU,1,NA,NA,NA,NA,NA,NA,
+SPD,1,NA,NA,NA,NA,NA,NA,
+Gruene,1,NA,NA,NA,NA,NA,NA,
+FDP,1,NA,NA,NA,NA,NA,NA,
+DB,1,NA,NA,NA,NA,NA,NA,
+HTW,1,NA,NA,NA,NA,NA,NA,Hochschule für Technik und Wirtschaft Berlin
+BWB,1,NA,NA,NA,NA,NA,NA,Berliner Wasserbetriebe
+BWO,1,NA,NA,NA,NA,NA,NA,Bundesverband der Windparkbetreiber Offshore
+DIW,1,NA,NA,NA,NA,NA,NA,Deutsches Institut für Wirtschaftsforschung
+MIBRAG,1,NA,NA,NA,NA,NA,NA,Mitteldeutschen Braunkohlengesellschaft 
+DRK,1,NA,NA,NA,NA,NA,NA,Deutsches Rotes Kreuz
+BDA,1,NA,NA,NA,NA,NA,NA,Bundesvereinigung der Deutschen Arbeitgeberverbände
+BDEW,1,NA,NA,NA,NA,NA,NA,Bundesverbands der Energie- und Wasserwirtschaft
+BDI,1,NA,NA,NA,NA,NA,NA,Bundesverband der Deutschen Industrie 
+GVB,1,NA,NA,NA,NA,NA,NA,Genossenschaftsverband Bayern
+Telekom,1,NA,NA,NA,NA,NA,NA,
+Airbus,1,NA,NA,NA,NA,NA,NA,
+VKU,1,NA,NA,NA,NA,NA,NA,Verband Kommunaler Unternehmen
+EnBW,1,NA,NA,NA,NA,NA,NA,
+SD,1,NA,NA,NA,NA,NA,NA,Stadtentwässerung Dresden
+Alba,1,NA,NA,NA,NA,NA,NA,Entsorgungskonzern Alba
+DIHT,1,NA,NA,NA,NA,NA,NA,Deutscher Industrie- und Handelskammertag
+BfB,1,NA,NA,NA,NA,NA,NA,"Initiative ""Buirer für Buir"""
+KAD,1,NA,NA,NA,NA,NA,NA,Klimaallianz Deutschland
+GZW,1,NA,NA,NA,NA,NA,NA,Grüne Zukunft Welzow
+Spre,1,NA,NA,NA,NA,NA,NA,Stadt Spremberg Rathaus (Bürgermeisterin) 
+KSKK,1,NA,NA,NA,NA,NA,NA,Kreissparkasse Köln
+LEENRW,1,NA,NA,NA,NA,NA,NA,Landesverband Erneuerbare Energien Nordrhein-Westfalen 
+IGBCE,1,NA,NA,NA,NA,NA,NA,"Industriegewerkschaft Bergbau, Chemie, Energie"
+Verdi,1,NA,NA,NA,NA,NA,NA,
+Eon,1,NA,NA,NA,NA,NA,NA,
+DGB,1,NA,NA,NA,NA,NA,NA,Deutscher Gewerkschaftsbund
+GP,1,NA,NA,NA,NA,NA,NA,Greenpeace
+BUND,1,NA,NA,NA,NA,NA,NA,Bund für Umwelt- und Naturschutz Deutschland
+RNE,1,NA,NA,NA,NA,NA,NA,Rat für nachhaltige Entwicklung der Bundesregierung
+DNR,1,NA,NA,NA,NA,NA,NA,Dachverband Deutscher Naturschutzring
+NBG,1,NA,NA,NA,NA,NA,NA,Nationales Begleitgremium zur Endlagersuche
+BfAN,1,NA,NA,NA,NA,NA,NA,Bundesagentur für Arbeit Nürnberg
+DVPW,1,NA,NA,NA,NA,NA,NA,Deutsche Vereinigung für Politische Wissenschaft
+GEE,1,NA,NA,NA,NA,NA,NA,Gesellschaft für Energiewissenschaft und Energiepolitik
+IPCC,1,NA,NA,NA,NA,NA,NA,Weltklimarat
+PIK,1,NA,NA,NA,NA,NA,NA,Potsdam Inatitut für Klimafolgenforschung
+CAU,1,NA,NA,NA,NA,NA,NA,Christian-Albrechts-Universität Kiel
+IAB,1,NA,NA,NA,NA,NA,NA,Institut für Arbeitsmarkt- und Berufsforschung
+IMWS,1,NA,NA,NA,NA,NA,NA,Fraunhofer-Institut für Mikrostruktur von Werkstoffen und Systemen
+MLU,1,NA,NA,NA,NA,NA,NA,Martin-Luther-Universität Halle-Wittenberg
+BT,1,NA,NA,NA,NA,NA,NA,Bundestag
+AWE,1,NA,NA,NA,NA,NA,NA,Ausschuss für Wirtschaft und Energie
+EUD,1,NA,NA,NA,NA,NA,NA,Europa-Union Deutschland (EUD)
