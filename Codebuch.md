@@ -99,3 +99,81 @@ state
 
 name
 falls ID Abkürzung, hier ausgeschrieben
+
+HTW	Hochschule für Technik und Wirtschaft Berlin
+
+BWB	Berliner Wasserbetriebe
+
+BWO	Bundesverband der Windparkbetreiber Offshore
+
+DIW	Deutsches Institut für Wirtschaftsforschung
+
+MIBRAG	Mitteldeutschen Braunkohlengesellschaft 
+
+DRK	Deutsches Rotes Kreuz
+
+BDA	Bundesvereinigung der Deutschen Arbeitgeberverbände
+
+BDEW	Bundesverbands der Energie- und Wasserwirtschaft
+
+BDI	Bundesverband der Deutschen Industrie 
+
+GVB	Genossenschaftsverband Bayern
+
+VKU	Verband Kommunaler Unternehmen
+
+SD	Stadtentwässerung Dresden
+
+Alba	Entsorgungskonzern Alba
+
+DIHT	Deutscher Industrie- und Handelskammertag
+
+BfB	Initiative "Buirer für Buir"
+
+KAD	Klimaallianz Deutschland
+
+GZW	Grüne Zukunft Welzow
+
+Spre	Stadt Spremberg Rathaus (Bürgermeisterin) 
+
+KSKK	Kreissparkasse Köln
+
+LEENRW	Landesverband Erneuerbare Energien Nordrhein-Westfalen 
+
+IGBCE	Industriegewerkschaft Bergbau, Chemie, Energie
+
+DGB	Deutscher Gewerkschaftsbund
+
+GP	Greenpeace
+
+BUND	Bund für Umwelt- und Naturschutz Deutschland
+
+RNE	Rat für nachhaltige Entwicklung der Bundesregierung
+
+DNR	Dachverband Deutscher Naturschutzring
+
+NBG	Nationales Begleitgremium zur Endlagersuche
+
+BfAN	Bundesagentur für Arbeit Nürnberg
+
+DVPW	Deutsche Vereinigung für Politische Wissenschaft
+
+GEE	Gesellschaft für Energiewissenschaft und Energiepolitik
+
+IPCC	Weltklimarat
+
+PIK	Potsdam Inatitut für Klimafolgenforschung
+
+CAU	Christian-Albrechts-Universität Kiel
+
+IAB	Institut für Arbeitsmarkt- und Berufsforschung
+
+IMWS	Fraunhofer-Institut für Mikrostruktur von Werkstoffen und Systemen
+
+MLU	Martin-Luther-Universität Halle-Wittenberg
+
+BT	Bundestag
+
+AWE	Ausschuss für Wirtschaft und Energie
+
+EUD	Europa-Union Deutschland (EUD)
