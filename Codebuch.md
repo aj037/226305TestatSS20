@@ -94,84 +94,84 @@ Funktion des Mitglieds innerhalb der Kommission: <p>
 
 
 <h3>name</h3>
-falls ID Abkürzung, hier ausgeschrieben
+falls ID Abkürzung, hier ausgeschrieben <p>
 
-HTW	Hochschule für Technik und Wirtschaft Berlin
+HTW	      Hochschule für Technik und Wirtschaft Berlin
 
-BWB	Berliner Wasserbetriebe
+BWB	      Berliner Wasserbetriebe
 
-BWO	Bundesverband der Windparkbetreiber Offshore
+BWO	      Bundesverband der Windparkbetreiber Offshore
 
-DIW	Deutsches Institut für Wirtschaftsforschung
+DIW	      Deutsches Institut für Wirtschaftsforschung
 
-MIBRAG	Mitteldeutschen Braunkohlengesellschaft 
+MIBRAG	  Mitteldeutschen Braunkohlengesellschaft 
 
-DRK	Deutsches Rotes Kreuz
+DRK	      Deutsches Rotes Kreuz
 
-BDA	Bundesvereinigung der Deutschen Arbeitgeberverbände
+BDA	      Bundesvereinigung der Deutschen Arbeitgeberverbände
 
-BDEW	Bundesverbands der Energie- und Wasserwirtschaft
+BDEW	    Bundesverbands der Energie- und Wasserwirtschaft
 
-BDI	Bundesverband der Deutschen Industrie 
+BDI       Bundesverband der Deutschen Industrie 
 
-GVB	Genossenschaftsverband Bayern
+GVB	      Genossenschaftsverband Bayern
 
-VKU	Verband Kommunaler Unternehmen
+VKU	      Verband Kommunaler Unternehmen
 
-SD	Stadtentwässerung Dresden
+SD	      Stadtentwässerung Dresden
 
-Alba	Entsorgungskonzern Alba
+Alba	    Entsorgungskonzern Alba
 
-DIHT	Deutscher Industrie- und Handelskammertag
+DIHT	    Deutscher Industrie- und Handelskammertag
 
-BfB	Initiative "Buirer für Buir"
+BfB	      Initiative "Buirer für Buir"
 
-KAD	Klimaallianz Deutschland
+KAD	      Klimaallianz Deutschland
 
-GZW	Grüne Zukunft Welzow
+GZW	      Grüne Zukunft Welzow
 
-Spre	Stadt Spremberg Rathaus (Bürgermeisterin) 
+Spre	    Stadt Spremberg Rathaus (Bürgermeisterin) 
 
-KSKK	Kreissparkasse Köln
+KSKK	    Kreissparkasse Köln
 
-LEENRW	Landesverband Erneuerbare Energien Nordrhein-Westfalen 
+LEENRW	  Landesverband Erneuerbare Energien Nordrhein-Westfalen 
 
-IGBCE	Industriegewerkschaft Bergbau, Chemie, Energie
+IGBCE	    Industriegewerkschaft Bergbau, Chemie, Energie
 
-DGB	Deutscher Gewerkschaftsbund
+DGB	      Deutscher Gewerkschaftsbund
 
-GP	Greenpeace
+GP	      Greenpeace
 
-BUND	Bund für Umwelt- und Naturschutz Deutschland
+BUND	    Bund für Umwelt- und Naturschutz Deutschland
 
-RNE	Rat für nachhaltige Entwicklung der Bundesregierung
+RNE	      Rat für nachhaltige Entwicklung der Bundesregierung
 
-DNR	Dachverband Deutscher Naturschutzring
+DNR	      Dachverband Deutscher Naturschutzring
 
-NBG	Nationales Begleitgremium zur Endlagersuche
+NBG	      Nationales Begleitgremium zur Endlagersuche
 
-BfAN	Bundesagentur für Arbeit Nürnberg
+BfAN	    Bundesagentur für Arbeit Nürnberg
 
-DVPW	Deutsche Vereinigung für Politische Wissenschaft
+DVPW	    Deutsche Vereinigung für Politische Wissenschaft
 
-GEE	Gesellschaft für Energiewissenschaft und Energiepolitik
+GEE	      Gesellschaft für Energiewissenschaft und Energiepolitik
 
-IPCC	Weltklimarat
+IPCC	    Weltklimarat
 
-PIK	Potsdam Inatitut für Klimafolgenforschung
+PIK	      Potsdam Inatitut für Klimafolgenforschung
 
-CAU	Christian-Albrechts-Universität Kiel
+CAU	      Christian-Albrechts-Universität Kiel
 
-IAB	Institut für Arbeitsmarkt- und Berufsforschung
+IAB	      Institut für Arbeitsmarkt- und Berufsforschung
 
-IMWS	Fraunhofer-Institut für Mikrostruktur von Werkstoffen und Systemen
+IMWS	    Fraunhofer-Institut für Mikrostruktur von Werkstoffen und Systemen
 
-MLU	Martin-Luther-Universität Halle-Wittenberg
+MLU	      Martin-Luther-Universität Halle-Wittenberg
 
-BT	Bundestag
+BT	      Bundestag
 
-AWE	Ausschuss für Wirtschaft und Energie
+AWE	      Ausschuss für Wirtschaft und Energie (im Bundestag)
 
-EUD	Europa-Union Deutschland (EUD)
+EUD	      Europa-Union Deutschland (EUD)
 
-KK Kohlekommission
+KK        Kohlekommission
