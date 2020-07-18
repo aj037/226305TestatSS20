@@ -1,7 +1,7 @@
 ﻿<h1>Datensatz Netzwerkforschung Kohlekommission Testat SS20 aj037</h1>
 
 
-Codebuch Stand 2020-15-07
+Codebuch Stand 2020-15-07 <p>
 erstellt von Antonio Jung
 
 
@@ -10,7 +10,7 @@ erstellt von Antonio Jung
 * Nodes.csv (Nodelist)
 * Codebuch.md (Codierung der Datensätze)
 
-<h2>Ursprung und Datenerhebung<h2>
+<h2>Ursprung und Datenerhebung</h2>
 
 Der Bundestag hat am 03.07.2020 den Ausstieg aus dem Kohlestrom bis 2038 beschlossen (faz). Dem zuvor arbeitete die sogenannte "Kohlekommission" mehrere Jahre an der Vorbereitung des Ausstiegs. Mit diesem Projekt möchte ich das Netzwerk der 31 Mitglieder der Kohlekommission analysieren.
 Ich habe den Datensatz über folgenden Link erhoben: https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission (Primärquelle). Ergänzt werden die Personendaten durch das Munzinger Archiv.Untersucht wird, in welchen Organisationen die Mitglieder der Kohlekommission Mitglied sind. 
