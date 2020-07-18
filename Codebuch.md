@@ -1,29 +1,29 @@
-﻿Datensatz Netzwerkforschung Kohlekommission Testat SS20 aj037
+﻿<h1>Datensatz Netzwerkforschung Kohlekommission Testat SS20 aj037</h1>
 
 
 Codebuch Stand 2020-15-07
 erstellt von Antonio Jung
 
 
-Inhalt
+<h2>Inhalt</h2>
 * Edges.csv (Edgelist)
 * Nodes.csv (Nodelist)
 * Codebuch.md (Codierung der Datensätze)
 
-Ursprung und Datenerhebung
+<h2>Ursprung und Datenerhebung<h2>
 
 Der Bundestag hat am 03.07.2020 den Ausstieg aus dem Kohlestrom bis 2038 beschlossen (faz). Dem zuvor arbeitete die sogenannte "Kohlekommission" mehrere Jahre an der Vorbereitung des Ausstiegs. Mit diesem Projekt möchte ich das Netzwerk der 31 Mitglieder der Kohlekommission analysieren.
 Ich habe den Datensatz über folgenden Link erhoben: https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission (Primärquelle). Ergänzt werden die Personendaten durch das Munzinger Archiv.Untersucht wird, in welchen Organisationen die Mitglieder der Kohlekommission Mitglied sind. 
 
 
-Edge-Attribute
+<h2>Edge-Attribute</h2>
 
 
 - from (id Mitglied der Kommision),  
 - to (alle Mitgliedschaften der Person, soweit recherchierbar, dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen: achten Sie darauf, dass alle ids auch genau so in der Nodelist auftauchen, dort aber nur ein Mal)
 
 
-id
+<h3>id</h3>
 
 
 (eindeutige Codierung des Knoten)
@@ -31,12 +31,13 @@ codiert nach Nachname, jede ID entspricht einem Mitglied der Kohlekommission
 
 
 
-Node-Attribute
+<h2>Node-Attribute</h2>
 
 
-id
+<h3>id</h3>
 Identische ID wie aus der edgelist zur Identifikation der Knoten.
-type
+
+<h3>type</h3>
 Netzwerk ist ein two-mode-Netzwerk mit zwei Typen von Akteuren/Knoten:
 
 
@@ -46,14 +47,14 @@ Netzwerk ist ein two-mode-Netzwerk mit zwei Typen von Akteuren/Knoten:
 
 
 
-sex
+<h3>sex</h3>
 1=männlich
 2=weiblich
 
 
 
 
-age
+<h3>age</h3>
 1=unter 40
 2=40-50
 3=51-60
@@ -61,7 +62,7 @@ age
 5=71 und älter
 
 
-party 
+<h3>party</h3> 
 (Mitgliedschaft in politischer Partei),
 
 
@@ -73,7 +74,7 @@ party
 6=FDP
 
 
-representation 
+<h3>representation</h3> 
 Funktion des Mitglieds innerhalb der Kommission: 
 1=Politik
 2=Wirtschaft
@@ -83,7 +84,7 @@ Funktion des Mitglieds innerhalb der Kommission:
 6=Wissenschaft
 
 
-position 
+<h3>position</h3>
 
 
 1=Vorsitz
@@ -91,7 +92,7 @@ position
 3=kein Stimmrecht
 
 
-state 
+<h3>state</h3> 
 1=Niedersachsen
 2=Berlin
 3=Brandenburg
@@ -102,7 +103,7 @@ state
 8=Baden-Württemberg
 
 
-name
+<h3>name</h3>
 falls ID Abkürzung, hier ausgeschrieben
 
 HTW	Hochschule für Technik und Wirtschaft Berlin
@@ -182,3 +183,5 @@ BT	Bundestag
 AWE	Ausschuss für Wirtschaft und Energie
 
 EUD	Europa-Union Deutschland (EUD)
+
+KK Kohlekommission
