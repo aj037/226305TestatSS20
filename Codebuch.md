@@ -14,95 +14,83 @@ erstellt von Antonio Jung
 
 <h2>Ursprung und Datenerhebung</h2>
 
-Der Bundestag hat am 03.07.2020 den Ausstieg aus dem Kohlestrom bis 2038 beschlossen (faz). Dem zuvor arbeitete die sogenannte "Kohlekommission" mehrere Jahre an der Vorbereitung des Ausstiegs. Mit diesem Projekt möchte ich das Netzwerk der 31 Mitglieder der Kohlekommission analysieren.
-Ich habe den Datensatz über folgenden Link erhoben: https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission (Primärquelle). Ergänzt werden die Personendaten durch das Munzinger Archiv.Untersucht wird, in welchen Organisationen die Mitglieder der Kohlekommission Mitglied sind. 
+Der Bundestag hat am 03.07.2020 den Ausstieg aus dem Kohlestrom bis 2038 beschlossen. Dem zuvor arbeitete die sogenannte "Kohlekommission" mehrere Jahre an der Vorbereitung des Ausstiegs. Mit diesem Projekt möchte ich das Netzwerk der 31 Mitglieder der Kohlekommission analysieren. <p>
+Der Datensatz wurde auf Grundlage folgendes Links erhoben: https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission. <p>
+Untersucht wird, in welchen Organisationen die Mitglieder der Kohlekommission Mitglied sind. 
 
 
 <h2>Edge-Attribute</h2>
 
-
-- from (id Mitglied der Kommision),  
+- from (id Mitglied der Kommision) <p>  
 - to (alle Mitgliedschaften der Person, soweit recherchierbar, dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen: achten Sie darauf, dass alle ids auch genau so in der Nodelist auftauchen, dort aber nur ein Mal)
 
 
 <h3>id</h3>
 
-
-(eindeutige Codierung des Knoten)
+(eindeutige Codierung des Knoten) <p>
 codiert nach Nachname, jede ID entspricht einem Mitglied der Kohlekommission
 
 
 
 <h2>Node-Attribute</h2>
 
-
 <h3>id</h3>
 Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 <h3>type</h3>
-Netzwerk ist ein two-mode-Netzwerk mit zwei Typen von Akteuren/Knoten:
+Netzwerk ist ein two-mode-Netzwerk mit zwei Typen von Akteuren/Knoten: <p>
 
-
-0=Personen 
+0=Personen <p>
 1=Organisationen
 
-
-
-
 <h3>sex</h3>
-1=männlich
+1=männlich <p>
 2=weiblich
 
-
-
-
 <h3>age</h3>
-1=unter 40
-2=40-50
-3=51-60
-4=61-70
+1=unter 40 <p>
+2=40-50 <p>
+3=51-60 <p> 
+4=61-70 <p>
 5=71 und älter
 
 
 <h3>party</h3> 
-(Mitgliedschaft in politischer Partei),
+Mitgliedschaft in politischer Partei
 
-
-1=keine politische Mitgliedschaft
-2= CDU
-3=CSU
-4=SPD
-5=Grüne
-6=FDP
-
+1=keine politische Mitgliedschaft <p>
+2= CDU <p>
+3=CSU <p>
+4=SPD <p>
+5=Grüne <p>
+6=FDP <p>
 
 <h3>representation</h3> 
-Funktion des Mitglieds innerhalb der Kommission: 
-1=Politik
-2=Wirtschaft
-3=Gewerkschaft
-4=Umwelt
-5= Regionen
-6=Wissenschaft
+Funktion des Mitglieds innerhalb der Kommission: <p>
+1=Politik <p>
+2=Wirtschaft <p>
+3=Gewerkschaft <p>
+4=Umwelt <p>
+5= Regionen <p>
+6=Wissenschaft <p>
 
 
 <h3>position</h3>
 
-
-1=Vorsitz
-2=Mitglied
-3=kein Stimmrecht
+1=Vorsitz <p>
+2=Mitglied <p>
+3=kein Stimmrecht <p>
 
 
 <h3>state</h3> 
-1=Niedersachsen
-2=Berlin
-3=Brandenburg
-4=NRW
-5=Sachsen
-6=Hessen
-7=Bayern
-8=Baden-Württemberg
+1=Niedersachsen <p>
+2=Berlin <p>
+3=Brandenburg <p>
+4=NRW <p>
+5=Sachsen <p>
+6=Hessen <p>
+7=Bayern <p>
+8=Baden-Württemberg <p>
 
 
 <h3>name</h3>
