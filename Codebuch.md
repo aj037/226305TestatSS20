@@ -30,7 +30,10 @@ id
 codiert nach Nachname, jede ID entspricht einem Mitglied der Kohlekommission
 
 
+
 Node-Attribute
+
+
 id
 Identische ID wie aus der edgelist zur Identifikation der Knoten.
 type
