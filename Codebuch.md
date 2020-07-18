@@ -52,7 +52,7 @@ Netzwerk ist ein two-mode-Netzwerk mit zwei Typen von Akteuren/Knoten: <p>
 2=40-50 <p>
 3=51-60 <p> 
 4=61-70 <p>
-5=71 und älter
+5=71 und älter <p>
 
 
 <h3>party</h3> 
