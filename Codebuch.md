@@ -6,9 +6,11 @@ erstellt von Antonio Jung
 
 
 <h2>Inhalt</h2>
-* Edges.csv (Edgelist)
-* Nodes.csv (Nodelist)
-* Codebuch.md (Codierung der Datensätze)
+<ul>
+  <li>Edges.csv (Edgelist)</li>
+  <li>Nodes.csv (Nodelist)</li>
+  <li>Codebuch.md (Codierung der Datensätze)</li>
+ </ul>
 
 <h2>Ursprung und Datenerhebung</h2>
 
